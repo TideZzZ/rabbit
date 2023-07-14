@@ -7,12 +7,12 @@ body {
   background-color: #e25a61;
 }
 .container {
-  height: 31em;
-  width: 31em;
+  height: 29em;
+  width: 29em;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
-  left: 58%;
+  left: 59%;
 }
 .rabbit-body {
   background-color: #d7dfe7;
